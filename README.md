@@ -1,7 +1,7 @@
 # A-Simple-Note-Taking-Web-App
 An easy to use and deploy web app built using Flask
 
-Wanna try this app? Visit: [http://omkarpathak27.pythonanywhere.com/](http://omkarpathak27.pythonanywhere.com/)
+Wanna try this app? Visit: 
 
 # Features:
 
